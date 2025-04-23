@@ -2,6 +2,7 @@
 Dataset provided by https://www.kaggle.com/datasets/tamber/steam-video-games/data.
 
 Facing issue with computational limit. Might bring back this project later on. 
+
 Initially trying to create recommendation system using this dataset.
 However, the data lacks of genre of games. 
 Having the idea of connecting to Steam's API and retrieve the Game ID and Genre of the Game. 
